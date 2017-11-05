@@ -1,0 +1,18 @@
+[{
+	id: 1,
+	name: 'Scissors',
+	description: 'use this to cut stuff',
+	price: 4.99
+},
+{
+	id: 2,
+	name: 'Steak Knife',
+	description: 'use this to eat food',
+	price: 10.99
+},
+{
+	id: 3,
+	name: 'Shot glass',
+	description: 'use this to take shots',
+	price: 5.99
+}]

@@ -1,6 +1,12 @@
-/* Navbar */
+nav {
+  background-color: linear-gradient(to bottom, #0066ff 0%, #0000ff 100%);
+  font-family: Tahoma;
+}
 .nav .navbar-nav {
   font-size: 15px;
+}
+body {
+  background-color: #99ccff;
 }
 #searchForm {
   margin-right: 100px;

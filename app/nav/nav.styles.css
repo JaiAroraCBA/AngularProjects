@@ -1,0 +1,9 @@
+nav {
+  background: linear-gradient(to bottom, #0066ff 0%, #0000ff 100%);
+
+  font-family: Tahoma;
+}
+
+.navbar-brand{
+	 color: white;
+}
